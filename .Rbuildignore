@@ -1,0 +1,9 @@
+^comparch2025\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^README\.qmd$
+^README-.*\.png$
+^CONDUCT\.md$
+^CONTRIBUTING\.md$
+^\.binder/Dockerfile$
+^\.binder$
