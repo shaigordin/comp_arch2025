@@ -1,0 +1,19 @@
+---
+title: "extract_survey_data"
+author: "ShG"
+editor: visual
+---
+
+``` r
+# methodology chapters
+https://lisa.biu.ac.il/sites/lisa/files/shared/faust_safrai_introduction.pdf
+
+# dataset homepage
+https://lisa.biu.ac.il/faustsafrai
+
+# dataset hazala
+https://lisa.biu.ac.il/files/lisa/shared/hazala.xlsx
+
+# dataset surveys
+https://lisa.biu.ac.il/files/lisa/shared/icons/enc.xlsx
+```
